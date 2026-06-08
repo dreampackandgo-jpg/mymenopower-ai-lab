@@ -1,7 +1,10 @@
 # Dzień 4 — Teoria AI Agenta
 
 ## Czym jest AI Agent?
-[Twoje słowa — po przeczytaniu HF Course]
+AI Agent to system, który nie tylko odpowiada na pytania (jak chatbot),
+ale sam decyduje, jakie działania podjąć, korzysta z narzędzi
+(np. wyszukiwarki, bazy danych, kalendarza) i pamięta kontekst,
+żeby osiągnąć konkretny cel
 
 ## Kluczowe komponenty:
 - **Tools:** 
