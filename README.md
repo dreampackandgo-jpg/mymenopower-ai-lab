@@ -36,3 +36,17 @@ Każdy projekt rozwiązuje realny problem My MenoPower.
 
 - [My MenoPower](https://mymenopower.pl)
 - [LinkedIn](#)
+
+## Co to jest AI Agent? (moja definicja robocza)
+
+AI Agent to system, który nie tylko odpowiada na pytania (jak chatbot),
+ale sam decyduje, jakie działania podjąć, korzysta z narzędzi
+(np. wyszukiwarki, bazy danych, kalendarza) i pamięta kontekst,
+żeby osiągnąć konkretny cel.
+
+Dla My MenoPower oznacza to agent, który:
+- rozpoznaje, na jakim etapie perimenopauzy jest klientka
+- dobiera odpowiednie zasoby (artykuły, ćwiczenia, pytania)
+- prowadzi ją przez proces bez potrzeby ręcznej obsługi z mojej strony
+
+*Data: 08.06.2026 | Źródło: HF Agents Course + Vanderbilt AI Specialization*
